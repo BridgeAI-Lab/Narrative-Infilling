@@ -6,7 +6,7 @@ The pipeline covers dataset ingestion, prompt construction, LLM response collect
 
 ## Dataset
 
-Hugginface: [Link](https://huggingface.co/datasets/BridgeAI-Lab/Narrative-Infilling)
+🤗 Hugging Face: [Link](https://huggingface.co/datasets/BridgeAI-Lab/Narrative-Infilling)
 
 ---
 
