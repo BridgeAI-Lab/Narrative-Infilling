@@ -4,6 +4,10 @@ An end-to-end framework for benchmarking **narrative nfiiling** task using large
 
 The pipeline covers dataset ingestion, prompt construction, LLM response collection, automatic metrics, GPT-based qualitative scoring, and result aggregation — all stored in Excel files for reproducibility and auditability.
 
+## Dataset
+
+Hugginface: [Link](https://huggingface.co/datasets/BridgeAI-Lab/Narrative-Infilling)
+
 ---
 
 ## Table of Contents
